@@ -26,5 +26,15 @@
 - 프로그래밍 언어 : JAVA, Servlet, JSP </br>
 - 웹 표준 기술 : HTML5, CSS, JAVAScript, JQuery, Ajax </br>
 - 프레임 워크 : BootStrape
+<hr>
 
+### 사용방법(html을 쓸 수 있다.)
+#은 &lt;h1&gt;태그를 대신합니다.
+
+## #2개는 h2고, #6개는 h6를 대신합니다.
+
+- -는 목록입니다. 
+* 작대기 아래에 들여쓰기 + 별을 찍으면
+ 
+* li태그처럼 여러가지 목록을 나열할 수 있습니다.
       

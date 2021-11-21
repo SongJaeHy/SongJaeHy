@@ -31,7 +31,7 @@
 <p>☞작대기 아래에 들여쓰기 + 별을 찍으면</br>
 ⊙ li태그처럼 여러가지 목록을 나열할 수 있습니다.</p></br>
       
-### 안녕하세요! 👋
+### Hello! 👋
 
 <!--
 **SongJaeHy/SongJaeHy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -31,7 +31,7 @@
 <p>☞작대기 아래에 들여쓰기 + 별을 찍으면</br>
 ⊙ li태그처럼 여러가지 목록을 나열할 수 있습니다.</p></br>
       
-### Hello! 👋
+### Good afternoon! 👋
 
 <!--
 **SongJaeHy/SongJaeHy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,5 +60,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </div>
-<!--<img src="https://img.shields.io/badge/Python-376D9D?style=flat-square&logo=Python&logoColor=white"/></a>-->
+
       

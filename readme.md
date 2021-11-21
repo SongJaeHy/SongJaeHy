@@ -60,4 +60,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </div>
+<!--<img src="https://img.shields.io/badge/Python-376D9D?style=flat-square&logo=Python&logoColor=white"/></a>-->
       

@@ -34,6 +34,7 @@
 JAVA, JSP를 사용하여 Back-end 로직을 이해 <br/>
 데이터베이스의 테이블을 관리하고 기본 CRUD를 사용 <br/>
 학원에서 배운것을 응용해서 적용?
+<a href="https://github.com/SongJaeHy/DAMOYO.git">깃허브</a>
 <hr>
 
 ### Good afternoon! 👋

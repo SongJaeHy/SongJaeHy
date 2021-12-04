@@ -45,8 +45,9 @@
 <hr>
 
 ### 리액트
--- 환경설정<br/>
+- 환경설정<br/>
 - <a href="https://github.com/SongJaeHy/rea.git">환경설정</a>
+- <a href="https://github.com/SongJaeHy/react.git">게임</
 
 
       

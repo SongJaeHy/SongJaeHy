@@ -30,9 +30,11 @@
 <hr>
 
 ### 프로젝트
-- CCS 사원통근서비스(8월16~8월30일)
+- CCS 사원통근서비스
+- 기간 : 8월16일 ~ 8월 30일
 - 저는 로그인과 회원가입 창을 만들었습니다.<br/>
-<a href="https://github.com/SongJaeHy/CCS-1.git">깃허브</a>
+<a href="https://github.com/SongJaeHy/CCS-1.git">깃허브</a><br/>
+<a href="https://automatic-tango-8b9.notion.site/ecd04b2ed01c4a5c983cb50921dee400">노션</a>
 
 - DAMOYO_모임/정모 주선 서비스
 자기계발 및 취미, 관심사 등을 공유할 수 있는 모임 기반 플랫폼 서비스
@@ -41,7 +43,8 @@
 1. JAVA, JSP를 사용하여 Back-end 로직을 이해 <br/>
 2. 데이터베이스의 테이블을 관리하고 기본 CRUD를 사용 <br/>
 3. 학원에서 배운것을 응용해서 적용?<br/>
-- <a href="https://github.com/SongJaeHy/DAMOYO.git">깃허브</a>
+<a href="https://automatic-tango-8b9.notion.site/2021-09-791cb93c77dd4d48ac89a06052eeb934">노션</a><br/>
+<a href="https://github.com/SongJaeHy/DAMOYO.git">깃허브</a>
 <hr>
 
 ### 리액트

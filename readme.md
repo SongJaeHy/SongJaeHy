@@ -85,11 +85,9 @@ Here are some ideas to get you started:
 
 <div align="left">
   <img src="https://img.shields.io/badge/C-D77777?style=flat-square&logo=C&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Python-64AB4C?style=flat-square&logo=Python&logoColor=white"/>&nbsp
-<!-- <img src="https://img.shields.io/badge/-HTML5-DC0D15?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> -->
-  <img src="https://img.shields.io/badge/Android-4460B1?style=flat-square&logo=android&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Python-63B8FF?style=flat-square&logo=Python&logoColor=orange gradient"/>&nbsp
+  <img src="https://img.shields.io/badge/Android-4460B1?style=flat-square&logo=android&logoColor=Green" />&nbsp
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=blue" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />  -->
 </div>
 

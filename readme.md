@@ -1,4 +1,4 @@
-# 신입 개발자 송재현
+# 경력 개발자 송재현
 
 ### 학력
 - 서일대학교 컴퓨터전자공학과 졸업
@@ -8,6 +8,7 @@
 - 2종 보통 운전면허증 </br>
 - 한국사능력검정시험 3급 </br>
 - 모스마스터 </br>
+- 리눅스마스터 2급 </br>
 <hr>
 
 ### 공부
@@ -22,12 +23,15 @@
 - 2021.6~2021.11 Java기반 웹 개발자 국비 교육 </br>
 <hr>
 
+### 경력
+- 2022.04~2026.09 티벨 QA팀 LGU+ 셋톱박스 검증 </br>
+
 ### 사용기술
-- OS 및 DB: Windows10, MySql, Oracle </br>
+- OS 및 DB: Windows11, MySql, Oracle </br>
 - 사용 Tool : Eclipse </br>
 - 프로그래밍 언어 : JAVA, Servlet, JSP </br>
-- 웹 표준 기술 : HTML5, CSS, JAVAScript, JQuery, Ajax </br>
-- 프레임 워크 : BootStrape
+- 웹 표준 기술 : HTML5, CSS, JavaScript, JQuery, Ajax </br>
+- 프레임 워크 : BootStrape, Jira, LogNote
 <hr>
 
 ### 프로젝트

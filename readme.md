@@ -3,7 +3,7 @@
 ## 💡 About Me
 - 사용자 경험(UX)을 고려한 웹 퍼블리싱과 인터랙티브한 UI 구현에 관심이 많은 프론트엔드 개발자입니다.
 - 🔭 **현재 학습 중:** React, Modern JavaScript, Frontend Architecture
-- 📫 [My Notion Link](https://automatic-tango-8b9.notion.site/4f23c13813904fee9db0f379f38d728d)
+- 📫 [My Notion Link](https://app.notion.com/p/3faed5f19e018074b895d22ae858a7fc)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongJaeHy)](https://github.com/anuraghazra/github-readme-stats)
 
